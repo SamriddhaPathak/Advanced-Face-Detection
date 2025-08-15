@@ -920,7 +920,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 <div align="center">
 
-**Made with ❤️ by the Advanced Face Detection Team**
+**Hope this helps - Samriddha Pathak**
 
 [⬆ Back to Top](#advanced-face-detection-system)
 
