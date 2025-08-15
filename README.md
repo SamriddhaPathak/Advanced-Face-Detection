@@ -5,8 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://python.org)
 [![OpenCV Version](https://img.shields.io/badge/opencv-4.5%2B-green.svg)](https://opencv.org)
 
-**A robust, enterprise-grade face detection system with multiple detection algorithms, real-time processing, and production-ready features.**
-
+**A robust, face detection system with multiple detection algorithms, real-time processing, and production-ready features.**
 
 </div>
 
@@ -34,7 +33,7 @@
 
 ## 🌟 Overview
 
-The **Advanced Face Detection System** is an enterprise-grade, modular face detection solution designed for production environments. Built with Python and OpenCV, it combines multiple state-of-the-art detection algorithms to provide reliable, high-performance face detection capabilities.
+The **Advanced Face Detection System** is an, modular face detection solution designed for production environments. Built with Python and OpenCV, it combines multiple state-of-the-art detection algorithms to provide reliable, high-performance face detection capabilities.
 
 ### 🎯 Target Use Cases
 
