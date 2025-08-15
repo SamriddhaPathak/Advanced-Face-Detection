@@ -11,7 +11,7 @@ class Config:
     MIN_FACE_SIZE = (30, 30)
     
     # Camera settings
-    DEFAULT_CAMERA_INDEX = 0
+    DEFAULT_CAMERA_INDEX = 1
     CAMERA_WIDTH = 640
     CAMERA_HEIGHT = 480
     CAMERA_FPS = 30
