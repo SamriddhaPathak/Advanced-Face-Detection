@@ -4,9 +4,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://python.org)
 [![OpenCV Version](https://img.shields.io/badge/opencv-4.5%2B-green.svg)](https://opencv.org)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com)
-[![Code Coverage](https://img.shields.io/badge/coverage-95%25-brightgreen.svg)](https://github.com)
 
 **A robust, enterprise-grade face detection system with multiple detection algorithms, real-time processing, and production-ready features.**
 
