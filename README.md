@@ -141,17 +141,9 @@ advanced_face_detection/
 │   ├── routes.py
 │   └── __init__.py
 ├── 📁 models/                 # Downloaded models
-├── 📁 tests/                  # Unit and integration tests
-├── 📁 docs/                   # Documentation
-├── 📁 docker/                 # Docker configuration
 ├── config.py                  # Configuration settings
-├── main.py                    # Entry point
-├── requirements.txt           # Dependencies
-├── setup.py                   # Package installation
-├── Dockerfile                 # Docker container
-└── docker-compose.yml         # Multi-service deployment
+└── main.py                    # Entry point
 ```
-
 ---
 
 ## 🚀 Installation
