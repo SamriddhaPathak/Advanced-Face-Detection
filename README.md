@@ -809,7 +809,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ```bash
 # Clone repository
-git clone https://github.com/your-org/advanced-face-detection.git
+git clone https://https://github.com/SamriddhaPathak/Advanced-Face-Detection.git
 cd advanced-face-detection
 
 # Create development environment
@@ -910,7 +910,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-org/advanced-face-detection&type=Date)](https://star-history.com/#your-org/advanced-face-detection&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=your-org/advanced-face-detection&type=Date)](https://star-history.com/https://github.com/SamriddhaPathak/Advanced-Face-Detection)
 
 ---
 
