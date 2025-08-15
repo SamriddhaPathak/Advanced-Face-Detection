@@ -10,12 +10,6 @@
 
 **A robust, enterprise-grade face detection system with multiple detection algorithms, real-time processing, and production-ready features.**
 
-[Features](#features) •
-[Installation](#installation) •
-[Quick Start](#quick-start) •
-[Documentation](#documentation) •
-[API Reference](#api-reference) •
-[Contributing](#contributing)
 
 </div>
 
