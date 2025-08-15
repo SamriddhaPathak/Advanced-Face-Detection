@@ -907,9 +907,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
   - Viola, P. & Jones, M. (2001). Rapid object detection using a boosted cascade
   - Liu, W. et al. (2016). SSD: Single Shot MultiBox Detector
   - Zhang, S. et al. (2019). Ultra-Light Fast Generic Face Detector
-
-### ⭐ Star History
-
+  
 ---
 
 <div align="center">
