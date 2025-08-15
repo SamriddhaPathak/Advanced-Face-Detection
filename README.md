@@ -23,21 +23,21 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [API Reference](#api-reference)
-- [Performance](#performance)
-- [Deployment](#deployment)
-- [Security](#security)
-- [Monitoring](#monitoring)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [System Architecture](#️-system-architecture)
+- [Installation](#-installation)
+- [Quick Start](#-quick-start)
+- [Configuration](#️-configuration)
+- [API Reference](#-api-reference)
+- [Performance](#-performance)
+- [Deployment](#-deployment)
+- [Security](#-security)
+- [Monitoring](#-monitoring)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Support](#-support)
 
 ---
 
@@ -916,10 +916,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 ```
-
----
-
-
 
 ## 🙏 Acknowledgments
 
