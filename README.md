@@ -910,8 +910,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 ### ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SamriddhaPathak/Advanced-Face-Detection&type=Date)](https://star-history.com/#SamriddhaPathak/Advanced-Face-Detection&Date)
-
 ---
 
 <div align="center">
