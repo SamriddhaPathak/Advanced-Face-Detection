@@ -10,37 +10,6 @@
 
 **A robust, enterprise-grade face detection system with multiple detection algorithms, real-time processing, and production-ready features.**
 
-[Features](#features) •
-[Installation](#installation) •
-[Quick Start](#quick-start) •
-[Documentation](#documentation) •
-[API Reference](#api-reference) •
-[Contributing](#contributing)
-
-</div>
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Configuration](#configuration)
-- [API Reference](#api-reference)
-- [Performance](#performance)
-- [Deployment](#deployment)
-- [Security](#security)
-- [Monitoring](#monitoring)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-
----
-
 ## 🌟 Overview
 
 The **Advanced Face Detection System** is an enterprise-grade, modular face detection solution designed for production environments. Built with Python and OpenCV, it combines multiple state-of-the-art detection algorithms to provide reliable, high-performance face detection capabilities.
